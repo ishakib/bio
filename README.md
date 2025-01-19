@@ -1,9 +1,10 @@
-👋 Hello, I'm Shakib Hossain, a Full Stack Developer and Team Lead at Gain Solution Limited, where I've been instrumental in creating cutting-edge products designed for marketplaces. 🚀
+👋 Hello, I'm Shakib Hossain, a Full Stack Developer and Team Lead at Joules labs, where I've been instrumental in creating cutting-edge products designed for marketplaces. 🚀
 
 🌐 I specialize in web app development using Laravel and Vue.js and excel at taking projects from concept to production. 💻
 
 🌟 Some of the noteworthy projects I've contributed to at Gain Solution Limited include:
 
+- 🌐 **ReviewX - Cloud based wordpress plugin:** I played a pivotal role in developing SAAS , Payment and Subsciption. [Explore the project](https://reviewx.io)
 - 🌐 **SAAS CRM & Subscription Payment & Billing:** I played a pivotal role in developing a SAAS CRM with centralised authentication and seamless subscription billing integration. [Explore the project](https://crm.hibox.co)
 - 🛒 **Inventory & Sales POS System:** I led the engineering of a comprehensive Point-of-Sale system, optimizing inventory and sales management. [Explore the project](https://pos.gainhq.com)
 - 💼 **JobPoint - Recruitment System:** I contributed significantly to the creation of a robust Recruitment Management System, simplifying hiring processes. [Explore the project](https://jobpoint.gainhq.com)
