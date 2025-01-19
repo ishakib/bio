@@ -1,4 +1,4 @@
-👋 Hello, I'm Shakib Hossain, a Full Stack Developer and Team Lead at Joules labs, where I've been instrumental in creating cutting-edge products designed for marketplaces. 🚀
+👋 Hello, I'm Shakib Hossain, a Full Stack Developer and Team Lead at Joules labs, where I've been instrumental in creating cutting-edge products. 🚀
 
 🌐 I specialize in web app development using Laravel and Vue.js and excel at taking projects from concept to production. 💻
 
